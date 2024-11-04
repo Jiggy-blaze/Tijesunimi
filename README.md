@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tijesunimi Afolabi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on anyhing at the moment
 - 📫 How to reach me afolabiteejay23@gmail.com 
 
 <!---
